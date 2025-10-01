@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+xgboost
+numpy
+gunicorn  # A web server for Python
+Flask     # The API framework
